@@ -30,4 +30,6 @@
 
 ## How To Use
 
-> Dowload & Build
+1. [下载软件](https://github.com/ifgyong/podfile_lock_resolution/releases/)
+2. 或者`clone code build`执行下
+
